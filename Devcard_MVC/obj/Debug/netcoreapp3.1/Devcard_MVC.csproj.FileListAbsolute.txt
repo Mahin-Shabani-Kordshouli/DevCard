@@ -111,3 +111,5 @@ D:\tamrin_core_1_3_1401\Devcard\Devcard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Micr
 D:\tamrin_core_1_3_1401\Devcard\Devcard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\tamrin_core_1_3_1401\Devcard\Devcard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 D:\tamrin_core_1_3_1401\Devcard\Devcard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+D:\tamrin_core_1_3_1401\Devcard\Devcard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\header.cshtml.g.cs
+D:\tamrin_core_1_3_1401\Devcard\Devcard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\footer.cshtml.g.cs
